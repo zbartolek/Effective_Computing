@@ -1,6 +1,5 @@
-"""
-numpy and argparse HW
-"""
+#Numpy and argparse HW
+
 #imports:
 import sys, os
 import numpy as np
